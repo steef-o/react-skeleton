@@ -1,3 +1,5 @@
+Demo to test out creating skeleton components in react. demo: https://steef-o.github.io/react-skeleton/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
